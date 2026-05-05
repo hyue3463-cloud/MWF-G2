@@ -1,0 +1,36 @@
+{
+  "files": {
+    "malaysia_weather_data.csv": {
+      "source": "malaysia_weather_data.csv",
+      "format": "CSV text",
+      "rows_including_header": 57476
+    },
+    "malaysia_weather_cleaned.csv": {
+      "source": "malaysia_weather_cleaned.numbers",
+      "format": "CSV text converted from Apple Numbers",
+      "rows_including_header": 51694,
+      "columns": [
+        "datetime",
+        "year",
+        "month",
+        "month_num",
+        "day",
+        "hour",
+        "minutes",
+        "seconds",
+        "state",
+        "city",
+        "place",
+        "temperature",
+        "humidity",
+        "dew_point",
+        "pressure",
+        "wind_speed",
+        "gust",
+        "uv_index",
+        "precipitation_rate",
+        "precipitation_total"
+      ]
+    }
+  }
+}
